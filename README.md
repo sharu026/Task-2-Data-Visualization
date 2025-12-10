@@ -21,5 +21,5 @@ Screenshots Project screenshots
 - Sub-categories like Bookcases, Tables have losses.
 - Sales trend increases toward the end of the year.
 
-## 🚀 Objective
+
 Create interactive visualizations and summarize insights using Tableau.
